@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/hidayahapriliansyah/coba-oauth-express/issues"
   },
-  "homepage": "https://github.com/hidayahapriliansyah/coba-oauth-express#readme"
+  "homepage": "https://github.com/hidayahapriliansyah/coba-oauth-express#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth2": "^0.2.0",
+    "passport-jwt": "^4.0.1"
+  }
 }
